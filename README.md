@@ -1,23 +1,26 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=250&section=header&text=Hi%20there!%20👋%20I'm%20Besli%20Saut&fontSize=40&fontAlignY=38&animation=twinkling" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=250&section=header&text=Hi%20there!%20%20I'm%20Besli%20Saut&fontSize=40&fontAlignY=38&animation=twinkling" />
 </div>
 
-<h3 align="center">Robotics Enthusiast | Developer</h3>
+<h3 align="center">ROBOTICS ENGINEERING TECHNOLOGY</h3>
 
 <p align="center">
-  Welcome to my GitHub profile! I am deeply passionate about robotics, software development, and continuously sharing knowledge with others. Below, you can find more about my professional experiences, activities, and achievements.
+  Welcome to my GitHub profile I am a Robotics Engineering Technology student at Batam State Polytechnic with strong technical skills in programming, CAD design, and loT integration. I have experience developing communication systems for transporter line follower robots and humanoid soccer robots, focusing on improving coordination and data exchange between robotic platforms. As the student responsible for inter-robot communication projects, I successfully designed and implemented autonomous strategies for humanoid soccer robots, enhancing teamwork, decision-making, and overall performance in competitive environments. I am passionate about robotics, embedded systems, autonomous technologies, and intelligent multi-robot systems, and I continuously seek opportunities to apply and expand my technical expertise through innovative engineering projects.
 </p>
 
 ---
 
-## 📄 Curriculum Vitae
+## Curriculum Vitae
 
-You can view my detailed professional background, skills, and qualifications in my CV:
-👉 **[Download / View My CV Here](CV%20-%20BESLI%20SAUT%20MARITO%20PAKPAHAN.pdf)**
+<div align="center">
+  <a href="CV%20-%20BESLI%20SAUT%20MARITO%20PAKPAHAN.pdf">
+    <img src="CV_preview.jpg" alt="CV Besli" width="700" style="border-radius:10px; box-shadow: 0 4px 8px rgba(0,0,0,0.1);"/>
+  </a>
+</div>
 
 ---
 
-## 📸 Activities & Experiences
+## Activities & Experiences
 
 Here are some moments from my recent activities, leadership roles, and public speaking engagements:
 
@@ -25,7 +28,7 @@ Here are some moments from my recent activities, leadership roles, and public sp
   <table>
     <tr>
       <td align="center">
-        <img src="Ketua%20Natal.jpg" alt="Ketua Natal" width="280" style="border-radius:10px;"/><br/>
+        <img src="Ketua_Natal_cropped.jpg" alt="Ketua Natal" width="280" style="border-radius:10px;"/><br/>
         <b>Ketua Natal</b>
       </td>
       <td align="center">
@@ -42,14 +45,11 @@ Here are some moments from my recent activities, leadership roles, and public sp
 
 ---
 
-## 🏆 Certificates & Achievements
+## Certificates & Achievements
 
 Continuous learning and active participation are core to my journey. Here are some of the certifications I have achieved:
 
-### 📜 Documents (PDF)
-- 🏅 **[Sertifikat BRAIL Polibatam](sertifikat/BRAIL%20Polibatam.pdf)**
-
-### 🖼️ Certificate Previews
+### Certificate Previews
 <div align="center">
   <table>
     <tr>
@@ -60,6 +60,16 @@ Continuous learning and active participation are core to my journey. Here are so
       <td align="center">
         <img src="sertifikat/SertifikatAIDeaNation107_page-0001.jpg" alt="AIDeaNation" width="400" style="border-radius:10px;"/><br/>
         <b>Sertifikat AIDeaNation</b>
+      </td>
+    </tr>
+    <tr>
+      <td align="center">
+        <img src="sertifikat/BRAIL%20Polibatam_page-0001.jpg" alt="Sertifikat BRAIL" width="400" style="border-radius:10px;"/><br/>
+        <b>Sertifikat BRAIL Polibatam</b>
+      </td>
+      <td align="center">
+        <img src="TEKNOLOGI%20TEPAT%20GUNA.png" alt="Teknologi Tepat Guna" width="400" style="border-radius:10px;"/><br/>
+        <b>Teknologi Tepat Guna</b>
       </td>
     </tr>
     <tr>
