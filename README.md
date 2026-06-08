@@ -45,6 +45,15 @@ Here are some moments from my recent activities, leadership roles, and public sp
 
 ---
 
+## Projects & Posters
+
+<div align="center">
+  <img src="TEKNOLOGI%20TEPAT%20GUNA.png" alt="Teknologi Tepat Guna" width="800" style="border-radius:10px; box-shadow: 0 4px 8px rgba(0,0,0,0.1);"/><br/>
+  <br/><b>Poster Teknologi Tepat Guna</b>
+</div>
+
+---
+
 ## Certificates & Achievements
 
 Continuous learning and active participation are core to my journey. Here are some of the certifications I have achieved:
@@ -68,12 +77,6 @@ Continuous learning and active participation are core to my journey. Here are so
         <b>Sertifikat BRAIL Polibatam</b>
       </td>
       <td align="center">
-        <img src="TEKNOLOGI%20TEPAT%20GUNA.png" alt="Teknologi Tepat Guna" width="400" style="border-radius:10px;"/><br/>
-        <b>Teknologi Tepat Guna</b>
-      </td>
-    </tr>
-    <tr>
-      <td align="center" colspan="2">
         <img src="sertifikat/WhatsApp%20Image%202026-06-04%20at%2009.35.47.jpeg" alt="Other Certificate" width="400" style="border-radius:10px;"/><br/>
         <b>Sertifikat Penghargaan / Keikutsertaan</b>
       </td>
